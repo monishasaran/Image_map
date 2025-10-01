@@ -185,12 +185,12 @@ super-sports-cricket-and-football-turf.cricketground.in</h2></p>
 
 ```
 # OUTPUT
-![alt text](<../mapapp/static/Screenshot 2025-10-01 191444.png>)
-![alt text](<../mapapp/static/Screenshot 2025-10-01 191412.png>)
-![alt text](<../mapapp/static/Screenshot 2025-10-01 191328.png>)
-![alt text](<../mapapp/static/Screenshot 2025-10-01 191253.png>)
-![alt text](<../mapapp/static/Screenshot 2025-10-01 191156.png>)
-![alt text](<../mapapp/static/Screenshot 2025-10-01 191132.png>)
+![alt text](<Screenshot 2025-10-01 191132.png>)
+![alt text](<Screenshot 2025-10-01 191156.png>)
+![alt text](<Screenshot 2025-10-01 191253.png>)
+![alt text](<Screenshot 2025-10-01 191328.png>)
+![alt text](<Screenshot 2025-10-01 191412.png>)
+![alt text](<Screenshot 2025-10-01 191444.png>)
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
